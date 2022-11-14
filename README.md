@@ -7,14 +7,11 @@
 ![ReniBrito GitHub status](https://github-readme-stats.vercel.app/api?username=ReniBrito&show_icons=true&theme=onedark)
 
 # Tecnologias que uso no dia dia!
-<div> style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
 <div>
- <div> style="display: inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<div> 
-<div> style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"  />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <div>
   
   
