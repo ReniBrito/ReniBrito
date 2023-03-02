@@ -15,4 +15,4 @@
 <div>
   
   
-  Apaixonado por tecnologia atualmente venho estudando Python com um plus de html e Django.
+  Apaixonado por tecnologia atualmente venho estudando Python voltado para Analise de dados.
