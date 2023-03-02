@@ -1,7 +1,7 @@
 # Olá meu nome é Renivaldo Brito 👋
 
 - 🔭 Hoje eu estou diponivél para o mercado de trabalho ...
-- 🌱 Atualmente estou estudando Python e pretendo entrar na area de analise de dados. 
+- 🌱 Atualmente estou estudando Python, Excel Avançado, PowerBI e SQL estou em transição para área de analise de dados. 
 - 📫 Contate - me no email: renibrito2@gmail.com
 
 ![ReniBrito GitHub status](https://github-readme-stats.vercel.app/api?username=ReniBrito&show_icons=true&theme=onedark)
